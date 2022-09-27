@@ -4,4 +4,4 @@ Social proof section challange on frontend mentor website | https://www.frontend
 
 This site is responsive design, display : flex structure is used.
 
-Go to site -> 
+Go to site -> https://otpz.github.io/social-proof-section/
